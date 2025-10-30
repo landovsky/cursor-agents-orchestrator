@@ -1,0 +1,12 @@
+{
+  "repository": "git@github.com:landovsky/cursor-agents-orchestrator.git",
+  "ref": "epic/improve-readme",
+  "iterations": [
+    {
+      "text": "Improve README.md file to include more detailed instructions for using the orchestrator."
+    },
+    {
+      "text": "Implement task 3.1 Integration tests, reference doc/integration-tests.md."
+    }
+  ]
+}
