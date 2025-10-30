@@ -1,6 +1,8 @@
 # Cursor background agents orchestrator
 Run locally to get Cursor background agents to work on defined set of tasks.
 
+![Screenshot of orchestrator](public/screenshot.png)
+
 ## Motivations
 1) get AI to do more unattended work in small, manageable chunks
 1) decrease number of "one minute breaks" while using AI in "attended mode"
